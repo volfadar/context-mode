@@ -25,6 +25,8 @@ https://github.com/user-attachments/assets/07013dbf-07c0-4ef1-974a-33ea1207637b
 
 ```bash
 /plugin marketplace add mksglu/context-mode
+```
+```bash
 /plugin install context-mode@context-mode
 ```
 
